@@ -1,0 +1,416 @@
+[
+
+  {
+    "id": 1,
+    "name": "Harry Potter and the Sorcerer's Stone",
+    "author": "J.K. Rowling",
+    "category": "Fantasy",
+    "image": "https://m.media-amazon.com/images/I/81iqZ2HHD-L.jpg",
+    "price": 499,
+    "rating": 4.8,
+    "description": "The boy who lived begins his journey at Hogwarts."
+  },
+  {
+    "id": 2,
+    "name": "Harry Potter and the Chamber of Secrets",
+    "author": "J.K. Rowling",
+    "category": "Fantasy",
+    "image": "https://m.media-amazon.com/images/I/91HHqVTAJQL.jpg",
+    "price": 499,
+    "rating": 4.7,
+    "description": "Harry returns to Hogwarts and discovers a hidden threat."
+  },
+  {
+    "id": 3,
+    "name": "Harry Potter and the Prisoner of Azkaban",
+    "author": "J.K. Rowling",
+    "category": "Fantasy",
+    "image": "https://m.media-amazon.com/images/I/81lAPl9Fl0L.jpg",
+    "price": 499,
+    "rating": 4.8,
+    "description": "Harry learns more about his past—and a dangerous escapee."
+  },
+  {
+    "id": 4,
+    "name": "Harry Potter and the Goblet of Fire",
+    "author": "J.K. Rowling",
+    "category": "Fantasy",
+    "image": "https://m.media-amazon.com/images/I/91HHqVTAJQL.jpg",
+    "price": 499,
+    "rating": 4.6,
+    "description": "Harry competes in the dangerous Triwizard Tournament."
+  },
+  {
+    "id": 5,
+    "name": "Harry Potter and the Order of the Phoenix",
+    "author": "J.K. Rowling",
+    "category": "Fantasy",
+    "image": "https://m.media-amazon.com/images/I/81YOuOGFCJL.jpg",
+    "price": 499,
+    "rating": 4.7,
+    "description": "Harry faces challenges from inside and outside Hogwarts."
+  },
+  {
+    "id": 6,
+    "name": "Harry Potter and the Half‑Blood Prince",
+    "author": "J.K. Rowling",
+    "category": "Fantasy",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/81ZBjbHjIAL.jpg",
+    "price": 499,
+    "rating": 4.7,
+    "description": "Harry uncovers secrets and dangers in the wizarding world."
+  },
+  {
+    "id": 7,
+    "name": "Harry Potter and the Deathly Hallows",
+    "author": "J.K. Rowling",
+    "category": "Fantasy",
+    "image": "https://m.media-amazon.com/images/I/81iqZ2HHD-L.jpg",
+    "price": 499,
+    "rating": 4.9,
+    "description": "The final battle begins as Harry searches for Horcruxes."
+  },
+  {
+    "id": 8,
+    "name": "The Power of Your Subconscious Mind",
+    "author": "Joseph Murphy",
+    "category": "Self‑Help",
+    "image": "https://m.media-amazon.com/images/I/41YPesG2MAL.jpg",
+    "price": 399,
+    "rating": 4.6,
+    "description": "Unlock the hidden power within your subconscious."
+  },
+  {
+    "id": 9,
+    "name": "The Subtle Art of Not Giving a F*ck",
+    "author": "Mark Manson",
+    "category": "Self‑Help",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/71QKQ9mwV7L.jpg",
+    "price": 399,
+    "rating": 4.5,
+    "description": "A counterintuitive approach to living a good life."
+  },
+  {
+    "id": 10,
+    "name": "Jujutsu Kaisen, Vol. 1",
+    "author": "Gege Akutami",
+    "category": "Manga",
+    "image": "https://m.media-amazon.com/images/I/81eZP36d+gL.jpg",
+    "price": 499,
+    "rating": 4.9,
+    "description": "Yuji Itadori begins his journey as a jujutsu sorcerer."
+  },
+  {
+    "id": 11,
+    "name": "Jujutsu Kaisen, Vol. 2",
+    "author": "Gege Akutami",
+    "category": "Manga",
+    "image": "https://m.media-amazon.com/images/I/81G67i2-sZL.jpg",
+    "price": 499,
+    "rating": 4.8,
+    "description": "Yuji and friends face curses at Tokyo Jujutsu High."
+  },
+  {
+    "id": 12,
+    "name": "Jujutsu Kaisen, Vol. 3",
+    "author": "Gege Akutami",
+    "category": "Manga",
+    "image": "https://m.media-amazon.com/images/I/81OxF5JQOZL.jpg",
+    "price": 499,
+    "rating": 4.9,
+    "description": "Deeper into cursed spirits and character backstories."
+  },
+  {
+    "id": 13,
+    "name": "Jujutsu Kaisen, Vol. 4",
+    "author": "Gege Akutami",
+    "category": "Manga",
+    "image": "https://m.media-amazon.com/images/I/81GcA3l9vkL.jpg",
+    "price": 499,
+    "rating": 4.9,
+    "description": "Constantly evolving stakes in the world of curses."
+  },
+  {
+    "id": 14,
+    "name": "Jujutsu Kaisen, Vol. 5",
+    "author": "Gege Akutami",
+    "category": "Manga",
+    "image": "https://m.media-amazon.com/images/I/81FZMc6XudL.jpg",
+    "price": 499,
+    "rating": 4.8,
+    "description": "Yuji faces powerful curses and learns more secrets."
+  },
+  {
+    "id": 15,
+    "name": "Do Epic Shit",
+    "author": "Ankur Warikoo",
+    "category": "Self‑Help",
+    "image": "https://covers.openlibrary.org/b/olid/OL36659662M-L.jpg",
+    "price": 499,
+    "rating": 4.5,
+    "description": "A motivational guide to living boldly and purposefully."
+  },
+  {
+    "id": 16,
+    "name": "Shatter Me",
+    "author": "Tahereh Mafi",
+    "category": "Young Adult",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/81gfPLNWfpL.jpg",
+    "price": 449,
+    "rating": 4.3,
+    "description": "A girl with a lethal touch is locked away, until she learns what she's truly capable of."
+  },
+  {
+    "id": 17,
+    "name": "The Five People You Meet in Heaven",
+    "author": "Mitch Albom",
+    "category": "Fiction",
+    "image": "https://upload.wikimedia.org/wikipedia/en/4/4e/The_Five_People_You_Meet_in_Heaven.jpg",
+    "price": 499,
+    "rating": 4.5,
+    "description": "An old man learns the meaning of his life through five individuals he meets in the afterlife."
+  },
+  {
+    "id": 18,
+    "name": "Haunting Adeline",
+    "author": "H. D. Carlton",
+    "category": "Romantic Thriller",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/71QE7co1bPL.jpg",
+    "price": 449,
+    "rating": 4.1,
+    "description": "A dark romance about obsession, secrets, and deadly attraction."
+  },
+  {
+    "id": 19,
+    "name": "Bridgerton",
+    "author": "Julia Quinn",
+    "category": "Historical Romance",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/81x-+T2YpsL.jpg",
+    "price": 449,
+    "rating": 4.2,
+    "description": "A Regency-era romantic saga full of wit, scandal, and society intrigue."
+  },
+  {
+    "id": 20,
+    "name": "The Psychology of Money",
+    "author": "Morgan Housel",
+    "category": "Nonfiction",
+    "image": "https://covers2.booksamillion.com/covers/bam/0/85/719/768/0857197681_b.jpg",
+    "price": 499,
+    "rating": 4.7,
+    "description": "Timeless lessons on wealth, greed, and happiness."
+  },
+  {
+    "id": 21,
+    "name": "The Silent Patient",
+    "author": "Alex Michaelides",
+    "category": "Thriller",
+    "image": "https://m.media-amazon.com/images/I/71o2b4ZzUvL.jpg",
+    "price": 499,
+    "rating": 4.5,
+    "description": "A psychological thriller about a woman who shoots her husband and then stops speaking."
+  },
+  {
+    "id": 22,
+    "name": "Atomic Habits",
+    "author": "James Clear",
+    "category": "Self‑Help",
+    "image": "https://m.media-amazon.com/images/I/91bYsX41DVL.jpg",
+    "price": 399,
+    "rating": 4.8,
+    "description": "A guide to building good habits and breaking bad ones."
+  },
+  {
+    "id": 23,
+    "name": "Project Hail Mary",
+    "author": "Andy Weir",
+    "category": "Science Fiction",
+    "image": "https://m.media-amazon.com/images/I/81Ivf-hC3zL.jpg",
+    "price": 499,
+    "rating": 4.9,
+    "description": "An astronaut wakes up alone on a spaceship with no memory of who he is or how he got there."
+  },
+  {
+    "id": 24,
+    "name": "Educated",
+    "author": "Tara Westover",
+    "category": "Memoir",
+    "image": "https://m.media-amazon.com/images/I/81WojUxbbFL.jpg",
+    "price": 399,
+    "rating": 4.6,
+    "description": "A memoir about a woman who leaves her survivalist family and goes on to earn a PhD from Cambridge University."
+  },
+  {
+    "id": 25,
+    "name": "The Invisible Life of Addie LaRue",
+    "author": "V.E. Schwab",
+    "category": "Fantasy",
+    "image": "https://m.media-amazon.com/images/I/81xJxagwrvL.jpg",
+    "price": 449,
+    "rating": 4.2,
+    "description": "A young woman makes a Faustian bargain to live forever but is cursed to be forgotten by everyone she meets."
+  },
+  {
+    "id": 26,
+    "name": "The Midnight Library",
+    "author": "Matt Haig",
+    "category": "Fantasy",
+    "image": "https://m.media-amazon.com/images/I/81rKJ8V00bL.jpg",
+    "price": 449,
+    "rating": 4.3,
+    "description": "A novel about a library between life and death where each book represents a different life path."
+  },
+  {
+    "id": 27,
+    "name": "The Four Winds",
+    "author": "Kristin Hannah",
+    "category": "Historical Fiction",
+    "image": "https://m.media-amazon.com/images/I/81V1X1XffjL.jpg",
+    "price": 549,
+    "rating": 4.4,
+    "description": "A story of one woman's survival during the Great Depression."
+  },
+  {
+    "id": 28,
+    "name": "The Vanishing Half",
+    "author": "Brit Bennett",
+    "category": "Fiction",
+    "image": "https://m.media-amazon.com/images/I/81XrkokVqBL.jpg",
+    "price": 499,
+    "rating": 4.4,
+    "description": "Twin sisters grow up to live very different lives, one passing as white."
+  },
+  {
+    "id": 29,
+    "name": "The Thursday Murder Club",
+    "author": "Richard Osman",
+    "category": "Mystery",
+    "image": "https://m.media-amazon.com/images/I/81PnFOjTU-L.jpg",
+    "price": 399,
+    "rating": 4.0,
+    "description": "Four retirees meet weekly to solve cold cases until a real murder occurs."
+  },
+  {
+    "id": 30,
+    "name": "Pride and Prejudice",
+    "author": "Jane Austen",
+    "category": "Fiction",
+    "image": "https://m.media-amazon.com/images/I/81zF7vF2JwL.jpg",
+    "price": 599,
+    "rating": 4.7,
+    "description": "A classic novel about love, society, and marriage in 19th‑century England."
+  },
+  
+  {
+    "id": 31,
+    "name": "It Ends with Us",
+    "author": "Colleen Hoover",
+    "category": "Romance",
+    "image": "https://m.media-amazon.com/images/I/81s0B6NYXML._AC_UF1000,1000_QL80_.jpg",
+    "price": 499,
+    "rating": 4.7,
+    "description": "A powerful story about love, resilience, and difficult choices."
+  },
+  {
+    "id": 32,
+    "name": "Verity",
+    "author": "Colleen Hoover",
+    "category": "Thriller",
+    "image": "https://m.media-amazon.com/images/I/81-v2CskjKL._AC_UF1000,1000_QL80_.jpg",
+    "price": 499,
+    "rating": 4.5,
+    "description": "A chilling tale of secrets, lies, and obsession."
+  },
+  {
+    "id": 33,
+    "name": "Ugly Love",
+    "author": "Colleen Hoover",
+    "category": "Romance",
+    "image": "https://m.media-amazon.com/images/I/81BRvcfJxIL._AC_UF1000,1000_QL80_.jpg",
+    "price": 499,
+    "rating": 4.4,
+    "description": "A heart‑wracking story of love, loss, and boundaries."
+  },
+  {
+    "id": 34,
+    "name": "Twilight",
+    "author": "Stephenie Meyer",
+    "category": "Young Adult",
+    "image": "https://m.media-amazon.com/images/I/71xBLRBYOiL._AC_UF1000,1000_QL80_.jpg",
+    "price": 499,
+    "rating": 4.1,
+    "description": "A teenage girl falls in love with a vampire."
+  },
+  {
+    "id": 35,
+    "name": "New Moon",
+    "author": "Stephenie Meyer",
+    "category": "Young Adult",
+    "image": "https://m.media-amazon.com/images/I/71O-52T+yZL._AC_UF1000,1000_QL80_.jpg",
+    "price": 499,
+    "rating": 4.0,
+    "description": "Bella copes with the aftermath of Jacob’s return—and Edward’s absence."
+  },
+  {
+    "id": 36,
+    "name": "Eclipse",
+    "author": "Stephenie Meyer",
+    "category": "Young Adult",
+    "image": "https://m.media-amazon.com/images/I/71zFoylDDtL._AC_UF1000,1000_QL80_.jpg",
+    "price": 499,
+    "rating": 4.0,
+    "description": "A love triangle intensifies as a new danger approaches."
+  },
+  {
+    "id": 37,
+    "name": "Breaking Dawn",
+    "author": "Stephenie Meyer",
+    "category": "Young Adult",
+    "image": "https://m.media-amazon.com/images/I/71sGzQ2xZFL._AC_UF1000,1000_QL80_.jpg",
+    "price": 499,
+    "rating": 4.1,
+    "description": "The saga concludes with marriage, motherhood, and immortality."
+  },
+  {
+    "id": 38,
+    "name": "The Alchemist",
+    "author": "Paulo Coelho",
+    "category": "Fiction",
+    "image": "https://m.media-amazon.com/images/I/71aFt4+OTOL._AC_UF1000,1000_QL80_.jpg",
+    "price": 399,
+    "rating": 4.7,
+    "description": "A shepherd boy travels to Egypt in search of treasure—and himself."
+  },
+  {
+    "id": 39,
+    "name": "Where the Crawdads Sing",
+    "author": "Delia Owens",
+    "category": "Mystery",
+    "image": "https://m.media-amazon.com/images/I/81WWiiLg5bL._AC_UF1000,1000_QL80_.jpg",
+    "price": 499,
+    "rating": 4.8,
+    "description": "The ‘Marsh Girl’ becomes a murder suspect in a quiet North Carolina town."
+  },
+  {
+    "id": 40,
+    "name": "Educated",
+    "author": "Tara Westover",
+    "category": "Memoir",
+    "image": "https://m.media-amazon.com/images/I/81WojUxbbFL._AC_UF1000,1000_QL80_.jpg",
+    "price": 399,
+    "rating": 4.6,
+    "description": "A memoir about a woman who leaves her survivalist family and goes on to earn a PhD from Cambridge University."
+  },
+  {
+    "id": 41,
+    "name": "Little Fires Everywhere",
+    "author": "Celeste Ng",
+    "category": "Fiction",
+    "image": "https://m.media-amazon.com/images/I/81UcQnGzv1L._AC_UF1000,1000_QL80_.jpg",
+    "price": 499,
+    "rating": 4.5,
+    "description": "Two families' lives intertwine amid secrets in a suburban community."
+  }
+
+]
+
